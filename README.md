@@ -1,2 +1,5 @@
-[# Power_bi_portfolio
+[# Power_bi_portfolio 1 (Superstore Analysis)
 Data visualiazation](https://app.powerbi.com/view?r=eyJrIjoiODRjNDdlYzItN2Y1NC00MTc3LWEyODUtMzk2NTM0MzE5ZjIxIiwidCI6ImY5YWZlMDIwLTE0ZTgtNDU1NS1iNjM4LWI5OGY4OTZhYTk0YiIsImMiOjR9)
+
+Power Bi 2 (Bigmac Analysis)
+https://app.powerbi.com/view?r=eyJrIjoiMzk5YjcxZDItMDFlZC00ODVhLWJkNzktYjliNmY1YzQyZmRiIiwidCI6ImY5YWZlMDIwLTE0ZTgtNDU1NS1iNjM4LWI5OGY4OTZhYTk0YiIsImMiOjR9
